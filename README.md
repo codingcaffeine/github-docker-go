@@ -1,1 +1,1 @@
-## GoLang app with GitHub Action & Docker
+## GoLang app with GitHub Actions & Docker Registry
